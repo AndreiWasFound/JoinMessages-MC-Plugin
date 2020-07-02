@@ -1,0 +1,6 @@
+name: JoinMessage
+version: 1.0
+author: AndreiWasFound
+main: me.andreiwasfound.joinmessages.Main
+
+softdepend: [PlaceholderAPI]
